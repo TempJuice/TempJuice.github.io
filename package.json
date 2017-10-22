@@ -1,0 +1,23 @@
+{
+  "name": "tempjuice.guthub.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server --port 10001",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TempJuice/TempJuice.guthub.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TempJuice/TempJuice.guthub.io/issues"
+  },
+  "homepage": "https://github.com/TempJuice/TempJuice.guthub.io#readme",
+  "devDependencies": {
+    "lite-server": "^1.3.1"
+  }
+}
